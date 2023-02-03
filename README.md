@@ -1,5 +1,5 @@
 # Decision-Transformer-RL
-This repo contains the Jupyter notebook code and output video from my Blog on Towards AI - Taking a Walk in the OpenAI Gym: Using Decision Transformer to Power Reinforcement Learning
+This repo contains the Jupyter notebook code and output video from my blog on Towards AI - Taking a Walk in the OpenAI Gym: Using Decision Transformer to Power Reinforcement Learning
 
 <b>Article Summary</b>:
 
